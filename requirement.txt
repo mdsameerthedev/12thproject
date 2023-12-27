@@ -1,1 +1,1 @@
-customtkinter mysql.connector-python screeninfo
+py -m pip install customtkinter screeninfo mysql.connnector-python
